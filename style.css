@@ -373,6 +373,11 @@ a{
     border: none;
     object-fit: cover;
 }
+.click-guide-text {
+    color: #94a3b8; 
+    font-weight: 500;
+    margin-top: 15px;
+}
 /* --- [Section: Project Intro] End --- */
 /* --- [Section: project Content] Start --- */
 .content-number {
